@@ -268,4 +268,4 @@ def main():
         st.dataframe(df_sample, use_container_width=True)
 
 if __name__ == "__main__":
-    main() 
+    main()
